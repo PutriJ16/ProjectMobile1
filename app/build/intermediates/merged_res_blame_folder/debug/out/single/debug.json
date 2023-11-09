@@ -1,0 +1,854 @@
+[
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_logo2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_back_3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\back_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_profile.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_btn_2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_name.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_btn_4.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_search.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_logo3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_logo1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_name.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_btn_5.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_baseline_exit_to_app_24.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_email.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_back_1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\back_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_btn_1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_intro_button.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\intro_button.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_background_purple_1.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\background_purple_1.xml"
+    },
+    {
+        "merged": "com.example.projectmobile1.app-merged_res-28:/menu_nav_menu.xml.flat",
+        "source": "com.example.projectmobile1.app-main-30:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\baseline_menu_24.xml"
+    },
+    {
+        "merged": "com.example.projectmobile1.app-merged_res-28:/drawable_bmi.png.flat",
+        "source": "com.example.projectmobile1.app-main-30:/drawable/bmi.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_search.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_facebook.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_shopping_cart.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_intro_button.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\intro_button.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_logo3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_electrician.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\electrician.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_circle_green.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\circle_green.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_btn_2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_back_1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\back_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_back_1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\back_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_google.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_logo1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_facebook.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_tailor.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\tailor.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_email.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_carpenter.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\carpenter.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_search.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_background_button_icon.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\background_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_logo1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_logo1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_facebook.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_circle_green.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\circle_green.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_shopping_cart.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_logo1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_profile.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_password.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_cleaning.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\cleaning.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_logo1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_baseline_history_24.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\baseline_history_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_painter.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\painter.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\layout_fragment_cart.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_btn_4.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_background_edittext.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\background_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_maid.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\maid.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_logoooo.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\logoooo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_back_3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\back_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_intro_button.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\intro_button.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_shopping_cart.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_profile.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\layout_fragment_menu.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_password.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_logo3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_google.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\layout_fragment_bmi.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\layout\\fragment_bmi.xml"
+    },
+    {
+        "merged": "com.example.projectmobile1.app-merged_res-28:/layout_fragment_cart.xml.flat",
+        "source": "com.example.projectmobile1.app-main-30:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_search.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_profile.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_intro_button.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\intro_button.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_btn_3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_btn_3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_back_1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\back_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_logo2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_logo2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_back_1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\back_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_back_3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\back_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_btn_3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_logo2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_google.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_intro_button.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\intro_button.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_name.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_shopping_cart.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\shopping_cart.png"
+    },
+    {
+        "merged": "com.example.projectmobile1.app-merged_res-28:/layout_fragment_history.xml.flat",
+        "source": "com.example.projectmobile1.app-main-30:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_name.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_logo3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_google.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_back_1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\back_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_email.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_back_3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\back_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_circle_green.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\circle_green.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_name.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_btn_4.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_search.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_password.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_email.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_plumber.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\plumber.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_email.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_circle_green.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\circle_green.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_back_3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\back_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_circle_green.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\circle_green.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_btn_5.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_logo2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_name.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_back_3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\back_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_logo3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_btn_2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_top_background.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\top_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_btn_6.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_circle_green.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\circle_green.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_logo2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_google.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_password.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_btn_6.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_search.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_password.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_intro_button.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\intro_button.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_password.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_btn_5.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_baseline_speed_24.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\baseline_speed_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_bmibkg.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\bmibkg.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_profile.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_driver.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\driver.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_email.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_btn_1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_btn_6.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_btn_1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_facebook.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_gardener.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\gardener.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_google.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxxhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxxhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_shopping_cart.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-xxhdpi_logo3.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-xxhdpi\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_btn_6.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_background_button.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\background_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_btn_6.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-mdpi_shopping_cart.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-mdpi\\shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-ldpi_profile.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-ldpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_profile2.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\profile2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable-hdpi_btn_6.png.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable-hdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_baseline_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-merged_res-28:\\drawable_background_edittext_white.xml.flat",
+        "source": "C:\\Users\\HP_Core_i7\\.gradle\\daemon\\8.0\\com.example.projectmobile1.app-main-30:\\drawable\\background_edittext_white.xml"
+    }
+]

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DCDCF2"
+    tools:context=".AboutFragment">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:hint="Home Service App"
+        android:textAlignment="center"
+        android:textColorHint="#34346E"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:paddingTop="75dp"
+        android:paddingStart="15dp"/>
+
+    <TextView
+        android:id="@+id/textInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:hint="App dibuat untuk memenuhi nilai UTS Pemrograman Mobile"
+        android:textAlignment="center"
+        android:textColorHint="#34346E"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:paddingTop="75dp"
+        android:paddingStart="15dp"/>
+
+    <TextView
+        android:id="@+id/textInfoMe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="725dp"
+        android:hint="152020122 - Putri Jannatiningtias"
+        android:textAlignment="center"
+        android:textColorHint="#34346E"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:paddingTop="75dp"
+        android:paddingStart="15dp"/>
+
+</FrameLayout>
